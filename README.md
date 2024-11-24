@@ -72,7 +72,7 @@ pip install pandas scikit-learn
 ## How to Run
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/titanic-survival-prediction.git
+git clone https://github.com/Bushra-Butt-17/titanic-survival-prediction.git
 ```
 2. Change directory into the project folder:
 ```bash
