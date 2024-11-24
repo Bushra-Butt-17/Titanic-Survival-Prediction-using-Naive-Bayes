@@ -1,5 +1,4 @@
 
-```markdown
 # Titanic Survival Prediction using Naive Bayes
 
 ## Overview
